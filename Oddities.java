@@ -16,6 +16,6 @@ public class Oddities
 				System.out.println("Even");
 			else
 				System.out.println("Odd");
-		}
-	}
-}
+		}//for
+	}//main
+}//class
