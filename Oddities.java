@@ -8,6 +8,9 @@ public class Oddities
 		int check;
 		Scanner s = new Scanner(System.in);
 
+		if (testCase == 0)
+			System.out.println("No test cases given");
+
 		for (int i = 0; i < testCase; i++)
 		{
 			check = s.nextInt();
